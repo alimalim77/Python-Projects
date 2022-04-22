@@ -123,7 +123,4 @@ print(res["Origin"])
 # **In this module, we will scale the companies with highest amount of chocolate bar production with the us of Python libraries like Numpy and Matplotlib.**
 
 
-#print(coca) #Coca Percent
-print(complist)
-nd = {"Companies":complist}
 
